@@ -1,0 +1,5 @@
+com\mycompany\sistemaflotaconsorcioexpress\JakartaRestConfiguration.class
+com\mycompany\sistemaflotaconsorcioexpress\LogoutServlet.class
+com\mycompany\sistemaflotaconsorcioexpress\CerrarSesionServlet.class
+com\mycompany\sistemaflotaconsorcioexpress\resources\JakartaEE10Resource.class
+com\mycompany\sistemaflotaconsorcioexpress\LoginServlet.class
